@@ -3,3 +3,32 @@ body {
   padding: 0;
   font-family: sans-serif;
 }
+.space-padding{
+  padding-bottom: 15px;
+}
+
+.space-page{
+  padding-bottom: 20px;
+}
+
+.header-title{
+  font-weight: bold;
+}
+
+.bg-member{
+  background-image: url('./img/members.png') ;
+}
+
+.img-bulet{
+  border-radius: 150px;
+  width: 300px;
+}
+
+.img-member{
+  border-radius: 150px;
+  width: 100px;
+}
+
+.card-meet{
+  max-width: 18rem;
+}
